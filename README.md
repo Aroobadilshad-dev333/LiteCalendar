@@ -26,5 +26,4 @@ JavaScript (ES6)
    ```bash
  
 (https://github.com/Aroobadilshad-dev333/LiteCalendar.git)
-## Live demo
-[View site Live]( https://aroobadilshad-dev333.github.io/LiteCalendar/)
+
